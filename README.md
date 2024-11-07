@@ -1,1 +1,1 @@
-# textdetector
+AI-Generated Text Detector
