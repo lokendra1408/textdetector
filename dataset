@@ -1,3 +1,2 @@
-from datasets import load_dataset
-
-ds = load_dataset("artem9k/ai-text-detection-pile")
+curl -X GET \
+     "https://datasets-server.huggingface.co/rows?dataset=artem9k%2Fai-text-detection-pile&config=default&split=train&offset=0&length=100"
