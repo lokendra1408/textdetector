@@ -1,0 +1,6 @@
+f"{config.dataset_path}/train_essays.csv"
+f"{config.dataset_path}/test_essays.csv"
+f"{config.dataset_path}/train_prompts.csv"
+"/kaggle/input/daigt-external-dataset/daigt_external_dataset.csv"
+"/kaggle/input/llm-7-prompt-training-dataset/train_essays_RDizzl3_seven_v1.csv"
+f"{config.dataset_path}/sample_submission.csv"
